@@ -1,0 +1,19 @@
+{
+  "name": "jalal/uploader",
+  "description": "A package for upload file and image",
+  "autoload": {
+    "psr-4": {
+      "Jalal\\Uploader\\": "src/"
+    },
+    "files": [
+      "src/helpers.php"
+    ]
+  },
+  "authors": [
+    {
+      "name": "jalal alirezaei",
+      "email": "jalalpoker1@gamil.com"
+    }
+  ],
+  "require": {}
+}
